@@ -1,0 +1,5 @@
+const untappd = {
+    clientId: '',
+    secret: '',
+}
+export default untappd;
