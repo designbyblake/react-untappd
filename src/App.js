@@ -55,7 +55,6 @@ class App extends Component {
                     </ul>    
                 </div>
                 <BeerFrom loadBeers={this.loadBeers}></BeerFrom>
-                <button type="button" onClick={this.loadBeers}>Load up them beers.</button>
             </div>
         );
     }
